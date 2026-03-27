@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rahul Pednekar! 👋
 
-<!--
-**pednekar-rahul/pednekar-rahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Science Manager at AIG** based in London, specializing in **Generative AI** and **Machine Learning at scale**. I believe that data-driven decision making is the heart of every modern business, and I'm passionate about transforming complex data into impactful stories.
 
-Here are some ideas to get you started:
+### 🚀 Core Expertise:
+- **Generative AI & LLMs:** Specialized in RAG architectures, prompt engineering, and fine-tuning.
+- **Enterprise ML Platforms:** Deploying solutions on Azure Cloud and Palantir Foundry.
+- **Big Data Engineering:** Architecting scalable data pipelines using Spark/PySpark.
+- **Domain Mastery:** Deep experience in Insurance (Underwriting, Pricing, and Actuarial insights).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Toolbox:
+- **Languages:** Python, SQL, PySpark
+- **AI Frameworks:** LangChain, Azure ML, Explainable AI (XAI)
+- **Data Platforms:** Palantir Foundry, Databricks, Azure Data Lake
+
+### 🔗 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pednekar-rahul)
+
+---
+*“Data is the gold that we mine; storytelling is how we deliver its value.”*
